@@ -1,14 +1,14 @@
 # aare_meter
 Retro thermometer of the river Aare.
 The project uses ESP32 DAC to display the temperature on an analog voltmeter.
-This project is used for training / worshops for female IT newbies.
+This project is used for training/workshops for female IT newbies.
 
 ![aare_meter](https://github.com/touch-Ada/aare_meter/blob/main/img/aare_meter_code.jpeg)
 
 ## Prerequisites
 ### Visual Studio Code
 Visual Studio Code is an IDE (Integrated Development Environment).  
-It helps us writing code, just like Word helps us writing Text.  
+It helps us writing code, just like Word helps us writing text.  
 https://code.visualstudio.com/download  
 
 ### PlatformIO
